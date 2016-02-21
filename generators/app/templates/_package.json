@@ -61,7 +61,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^6.0.3",
-    "bruce": "^0.1.0",
+    "bruce": "^0.3.0",
     "css-loader": "^0.21.0",
     "css-mqpacker": "^4.0.0",
     "csswring": "^4.0.0",
